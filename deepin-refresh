@@ -1,0 +1,5 @@
+#!/bin/bash
+
+#xte 'keydown Multi_key' 'key F5' 'keyup Multi_key'
+
+xte 'key F5'
