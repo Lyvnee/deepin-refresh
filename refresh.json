@@ -1,0 +1,8 @@
+[
+    {
+        "MenuType": "EmptyArea",
+        "Icon": "",
+        "Text[zh_CN]": "刷新",
+        "Exec": "deepin-refresh"
+    }
+]
