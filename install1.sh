@@ -32,5 +32,5 @@ sudo sh -c "echo \"xte 'key F5'\" >> /usr/bin/deepin-refresh"
 
 sudo chmod 755 /usr/bin/deepin-refresh
 echo "Installing xautomation!"
-sudo apt install xautomation
+sudo apt install xautomation -y
 echo "==========Finished!=========="
